@@ -14,8 +14,6 @@ A performance dashboard analyzing daily, SKU-level supply chain operations acros
 - [Tools & Stack](#tools--stack)
 - [Repository Structure](#repository-structure)
 - [How to Reproduce](#how-to-reproduce)
-- [License](#license)
-
 ---
 
 ## Overview
@@ -117,20 +115,9 @@ Findings from the exploratory analysis notebook:
 
 ```
 .
-├── data/
-│   └── supply_chain_dataset1.csv
-├── notebook/
-│   └── eda.ipynb
-├── dashboard/
-│   └── Supply_Chain_Performance_Dashboard.pdf
+├── data/supply_chain_dataset1.csv
+├── notebook/eda.ipynb
+├── dashboard/Supply_Chain_Performance_Dashboard.pdf
 └── README.md
 ```
 
-## How to Reproduce
-
-```bash
-git clone <repo-url>
-cd <repo-name>
-pip install -r requirements.txt
-jupyter notebook notebook/eda.ipynb
-```
