@@ -2,6 +2,9 @@
 
 A performance dashboard analyzing daily, SKU-level supply chain operations across inventory and sales dimensions for fiscal year 2024.
 
+**🔗 Live Dashboard:** [Open in Looker Studio](https://datastudio.google.com/reporting/3d69da40-00a4-4127-89fc-bb08a7d5387a)
+**📦 Repository:** [devinasawitrii/Supply-Chain-Dashboard](https://github.com/devinasawitrii/Supply-Chain-Dashboard)
+
 ---
 
 ## Table of Contents
