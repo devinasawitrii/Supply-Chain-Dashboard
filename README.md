@@ -115,7 +115,6 @@ Findings from the exploratory analysis notebook:
 
 ```
 .
-├── data/supply_chain_dataset1.csv
 ├── notebook/eda.ipynb
 ├── dashboard/Supply_Chain_Performance_Dashboard.pdf
 └── README.md
